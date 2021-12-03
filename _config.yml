@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "neon"
+minimal_mistakes_skin    : "neon" # "default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "neon"
 
 # Site Settings
 locale                   : "en-US"
@@ -106,6 +106,7 @@ author:
   avatar           : "https://i.imgur.com/ItAydMo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an VERY **amazing** person."
   location         : "Waterloo" 
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
