@@ -22,7 +22,7 @@ subtitle                 : "A developer"
 name                     : "Seoyeon Choi"
 description              : "Blog of explaining coding deeply"
 url                      : "https://sophie0925.github.io"
-baseurl                  : ""
+baseurl                  : " "
 repository               : "sophie0925"
 teaser                   : "/assets/images/500x300.png"
 logo                     : "/assets/images/88x88.png"
@@ -103,14 +103,14 @@ analytics:
 # Site Author
 author:
   name             : "Seoyeon Choi"
-  avatar           : "https://i.imgur.com/ItAydMo.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "https://i.imgur.com/ItAydMo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an VERY **amazing** person."
   location         : "Waterloo"
-  email            :
+  email            : s226choi@uwaterloo.ca
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      # url: "s226choi@uwaterloo.ca"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
